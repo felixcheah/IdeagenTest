@@ -1,0 +1,10 @@
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.fmMainForm.resources
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Interview Test\Ideagen\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
